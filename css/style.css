@@ -110,7 +110,7 @@ body {
   height: 750px;
 }
 #ibxztg {
-  text-align: right;
+  text-align: justify;
 }
 .row {
   display: flex;
@@ -125,7 +125,7 @@ body {
   flex-basis: 100%;
 }
 #imfi5y {
-  text-align: right;
+  text-align: justify;
 }
 #iewjvl {
   height: 550px;
@@ -137,7 +137,7 @@ body {
   flex-basis: 75%;
 }
 #igpb1i {
-  text-align: right;
+  text-align: justify;
 }
 #irzy8d {
   height: 900px;
@@ -146,31 +146,31 @@ body {
   flex-direction: column;
 }
 #i211os {
-  text-align: right;
+  text-align: justify;
 }
 #ifr581 {
-  text-align: right;
+  text-align: justify;
 }
 #ifwy5f {
-  text-align: right;
+  text-align: justify;
 }
 #icogm6 {
-  text-align: right;
+  text-align: justify;
 }
 #i2x7nh {
   height: 550px;
 }
 #i4yguy {
-  text-align: right;
+  text-align: justify;
 }
 #il2cxb {
-  text-align: right;
+  text-align: justify;
 }
 #iatnh7 {
-  text-align: right;
+  text-align: justify;
 }
 #isaomg {
-  text-align: right;
+  text-align: justify;
 }
 #i3kpwg {
   height: 1200px;
@@ -182,13 +182,13 @@ body {
   font-size: 13.6px;
 }
 #i26y6h {
-  text-align: left;
+  text-align: justify;
 }
 #i22wrf {
-  text-align: left;
+  text-align: justify;
 }
 #ic2qtr {
-  text-align: left;
+  text-align: justify;
 }
 @media (max-width: 768px) {
   .row {
