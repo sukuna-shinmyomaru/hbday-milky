@@ -132,7 +132,7 @@ body{
   text-align:right;
 }
 #i3kpwg{
-  height:1200px;
+  height:950px;
   padding:50px 10px 10px 10px;
 }
 #ig7d2{
@@ -316,14 +316,6 @@ body{
   width:600px;
   height:858px;
 }
-#im8qjg{
-  color:black;
-  width:1280px;
-  height:863px;
-}
-#i5bqbt{
-  width:200px;
-}
 #iftvkc{
   flex-basis:500px;
 }
@@ -335,13 +327,87 @@ body{
 }
 #ieu10j{
   min-height:15px;
-}
-#i2c9mf{
-  min-height:10px;
+  flex-basis:30%;
 }
 #id1kgk{
   color:black;
   width:460px;
+}
+#i62nph{
+  color:black;
+  width:1280px;
+  height:863px;
+}
+#iyo9r5{
+  color:black;
+  width:800px;
+}
+#i8llhj{
+  padding:10px;
+  text-align:right;
+}
+#ii3ykg{
+  border:5px solid black;
+  border-radius:10px 10px 10px 10px;
+  background-image:url('https://via.placeholder.com/350x250/e868a2/fff/image6.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  font-size:30px;
+  color:#ffffff;
+}
+#i41xfl{
+  border:5px solid black;
+  border-radius:10px 10px 10px 10px;
+  background-image:url('https://via.placeholder.com/350x250/e868a2/fff/image6.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  font-size:30px;
+  color:#ffffff;
+}
+#izq6gx{
+  min-height:0;
+  height:40px;
+  text-align:right;
+}
+#i2lbni{
+  border:5px solid black;
+  border-radius:10px 10px 10px 10px;
+  background-image:url('https://via.placeholder.com/350x250/e868a2/fff/image6.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  font-size:30px;
+  color:#ffffff;
+}
+#igg32b{
+  padding:10px;
+  text-align:right;
+}
+#it9d1l{
+  padding:50px 10px 10px 10px;
+}
+#iidpft{
+  border:5px solid black;
+  border-radius:10px 10px 10px 10px;
+  background-image:url('https://via.placeholder.com/350x250/e868a2/fff/image6.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  font-size:30px;
+  color:#ffffff;
+}
+#igfvhz{
+  padding:0 0 0 100px;
+}
+#ifkr8m{
+  align-self:flex-end;
+  min-height:40px;
 }
 @media (max-width: 768px){
   .row{
