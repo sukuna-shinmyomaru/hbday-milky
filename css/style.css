@@ -63,7 +63,7 @@ body{
 }
 #i1cyo{
   background-image:url("https://media.discordapp.net/attachments/933539230540517437/933661209012613120/test_4.png?width=2762&height=1352");
-  background-repeat:repeat-y;
+  background-repeat:repeat;
   background-position:left top;
   background-attachment:fixed;
   background-size:cover;
