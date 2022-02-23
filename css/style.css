@@ -63,7 +63,7 @@ body{
 }
 #i1cyo{
   background-image:url("https://media.discordapp.net/attachments/933539230540517437/933661209012613120/test_4.png?width=2762&height=1352");
-  background-repeat:no-repeat;
+  background-repeat:repeat-y;
   background-position:left top;
   background-attachment:fixed;
   background-size:cover;
@@ -338,10 +338,6 @@ body{
   width:1280px;
   height:863px;
 }
-#iyo9r5{
-  color:black;
-  width:800px;
-}
 #i8llhj{
   padding:10px;
   text-align:right;
@@ -409,9 +405,14 @@ body{
   align-self:flex-end;
   min-height:40px;
 }
+#io600g{
+  color:black;
+  width:800px;
+}
 @media (max-width: 768px){
   .row{
     flex-wrap:wrap;
   }
 }
+
 
