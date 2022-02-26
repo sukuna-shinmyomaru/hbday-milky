@@ -458,7 +458,7 @@ body{
 #i88008{
   border-radius:10px 10px 10px 10px;
   border:3px solid black;
-  height:600px;
+  height:470px;
 }
 #ix83vb{
   text-align:right;
@@ -466,6 +466,7 @@ body{
 #inryrh{
   border-radius:10px 10px 10px 10px;
   border:3px solid black;
+  height:250px;
 }
 #inqm54{
   text-align:right;
@@ -624,5 +625,6 @@ body{
     flex-wrap:wrap;
   }
 }
+
 
 
