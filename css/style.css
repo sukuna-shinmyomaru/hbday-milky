@@ -620,6 +620,26 @@ body{
 #ia6y1e{
   text-align:justify;
 }
+#ikbvhy{
+  text-align:justify;
+}
+#ig9pss{
+  text-align:right;
+}
+#imr6rb{
+  border-radius:10px 10px 10px 10px;
+  border:3px solid black;
+  height:310px;
+}
+#ibkg3o{
+  color:rgb(32, 33, 36);
+  font-family:Roboto, Arial, sans-serif;
+  font-size:14px;
+  letter-spacing:0.2px;
+  text-align:start;
+  white-space:pre-line;
+  background-color:rgb(248, 249, 250);
+}
 @media (max-width: 768px){
   .row{
     flex-wrap:wrap;
