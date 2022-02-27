@@ -640,11 +640,30 @@ body{
   white-space:pre-line;
   background-color:rgb(248, 249, 250);
 }
+#i9y3h3{
+  text-align:justify;
+}
+#idck1m{
+  text-align:right;
+}
+#ixfqmd{
+  border-radius:10px 10px 10px 10px;
+  border:3px solid black;
+  height:470px;
+}
+#i1to7h{
+  font-size:13.6px;
+}
+#iornmn{
+  font-size:13.6px;
+}
+#i9gu5b{
+  font-size:13.6px;
+}
 @media (max-width: 768px){
   .row{
     flex-wrap:wrap;
   }
 }
-
 
 
