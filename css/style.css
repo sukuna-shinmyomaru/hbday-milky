@@ -660,6 +660,37 @@ body{
 #i9gu5b{
   font-size:13.6px;
 }
+#i79izo{
+  border:5px solid black;
+  border-radius:10px 10px 10px 10px;
+  background-image:url('https://via.placeholder.com/350x250/e868a2/fff/image6.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  font-size:30px;
+  color:#ffffff;
+  float:right;
+}
+#izs252{
+  padding:0 0 0 0;
+}
+#izc5pi{
+  padding:0 0 0 0;
+}
+#ixkbtx{
+  color:black;
+  width:730px;
+  text-align:left;
+  padding:0 0 0 40px;
+}
+#iardpp{
+  flex-basis:96.48%;
+  padding:0 100px 0 0;
+}
+#ioq14g{
+  width:840px;
+}
 @media (max-width: 768px){
   .row{
     flex-wrap:wrap;
