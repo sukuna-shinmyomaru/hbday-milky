@@ -63,10 +63,10 @@ body{
 }
 #i1cyo{
   background-image:url('https://media.discordapp.net/attachments/933539230540517437/933660564494880768/test_3.png?width=1239&height=670');
-  background-repeat:no-repeat;
-  background-position:left top;
+  background-repeat:repeat;
+  background-position:center top;
   background-attachment:fixed;
-  background-size:contain;
+  background-size:cover;
   padding:0 0 100px 0;
 }
 #ijjab{
