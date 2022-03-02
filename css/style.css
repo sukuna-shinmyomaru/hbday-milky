@@ -48,6 +48,51 @@ body {
   font-size:0.85rem;
   line-height:17px;
 }
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.container-width{
+  width:90%;
+  max-width:1150px;
+  margin:0 auto;
+}
+.flex-sect{
+  background-color:#fafafa;
+  padding:100px 0;
+  font-family:Helvetica, serif;
+}
+.cards{
+  padding:20px 0;
+  display:flex;
+  justify-content:space-around;
+  flex-flow:wrap;
+}
+.card{
+  background-color:white;
+  height:300px;
+  width:300px;
+  margin-bottom:30px;
+  box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.2);
+  border-radius:2px;
+  transition:all 0.5s ease;
+  font-weight:100;
+  overflow:hidden;
+}
+.card:hover{
+  margin-top:-5px;
+  box-shadow:0 20px 30px 0 rgba(0, 0, 0, 0.2);
+}
+.card-body{
+  padding:15px 15px 5px 15px;
+  color:#555;
+}
+.card-desc{
+  font-size:0.85rem;
+  line-height:17px;
+}
 *{
   box-sizing:border-box;
 }
@@ -67,8 +112,8 @@ body{
   flex-basis:100%;
 }
 #i1cyo{
-  background-image:url('https://media.discordapp.net/attachments/933539230540517437/933661209012613120/test_4.png?width=1369&height=670');
-  background-repeat:repeat-x;
+  background-image:url('https://media.discordapp.net/attachments/933539230540517437/933660564494880768/test_3.png?width=1239&height=670');
+  background-repeat:repeat;
   background-position:left top;
   background-attachment:fixed;
   background-size:cover;
@@ -723,6 +768,26 @@ body{
 #iwyqxx{
   color:black;
   height:700px;
+}
+#idekmg{
+  text-align:justify;
+}
+#i837pj{
+  text-align:right;
+}
+#isxser{
+  border-radius:10px 10px 10px 10px;
+  border:3px solid black;
+  height:310px;
+}
+#ib56vh{
+  color:rgb(32, 33, 36);
+  font-family:Roboto, Arial, sans-serif;
+  font-size:14px;
+  letter-spacing:0.2px;
+  text-align:start;
+  white-space:pre-line;
+  background-color:rgb(248, 249, 250);
 }
 @media (max-width: 768px){
   .row{
